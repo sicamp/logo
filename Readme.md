@@ -15,7 +15,7 @@
 1 | 2 | 3
 --- | --- | ---
 <img src="https://github.com/sicamp/logo/blob/master/badges/badge-strip-1.png" width="200" height="200" alt="Бейдж ЛКЛ"> | <img src="https://github.com/sicamp/logo/blob/master/badges/badge-strip-2.png" width="200" height="200" alt="Бейдж ЛКЛ"> | <img src="https://github.com/sicamp/logo/blob/master/badges/badge-strip-3.png" width="200" height="200" alt="Бейдж ЛКЛ">
-[png](badges/badge-strip-1.png), [eps](badges/badge-strip-1.eps) | [png](badges/badge-strip-2.png), [eps](badges/badge-strip-2.eps) | [png](badges/badge-strip-3.png), [eps](badges/badge-strip-3.eps)
+[png](badges/badge-strip-1.png), [svg](badges/badge-strip-1.svg), [eps](badges/badge-strip-1.eps) | [png](badges/badge-strip-2.png), [svg](badges/badge-strip-2.svg), [eps](badges/badge-strip-2.eps) | [png](badges/badge-strip-3.png), [svg](badges/badge-strip-3.svg), [eps](badges/badge-strip-3.eps)
 
 ### Без полосы
 
